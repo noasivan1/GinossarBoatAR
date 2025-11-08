@@ -59,7 +59,7 @@ All texts, buttons, and subtitles in the app will adapt based on your selected l
 ## 📷 Marker Image
 
 Use the following marker to trigger the AR experience:  
-![GinossarBoat](GinossarBoat.png)
+![GinossarBoat](TargetPicture.png)
 
 You may also print or display this marker on another screen.
 
